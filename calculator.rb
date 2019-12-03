@@ -1,2 +1,1 @@
-def first_number (n)
-end
+first_number = 2
